@@ -1,0 +1,21 @@
+"condition_name","num_trials","avg_duration_months"
+Chronic Lymphocytic Leukemia,203,56.9
+Multiple Myeloma,653,54.7
+Glioblastoma,262,53.8
+Leukemia,226,51.8
+Non-Small Cell Lung Cancer,205,51.7
+Lymphoma,348,50.8
+Acute Myeloid Leukemia,388,49.8
+Solid Tumors,266,48.8
+Melanoma,450,48.2
+Ovarian Cancer,470,47.4
+Metastatic Breast Cancer,284,47.3
+Non-small Cell Lung Cancer,300,47.2
+Pancreatic Cancer,448,47.1
+Rectal Cancer,262,45.1
+Bladder Cancer,305,44.6
+Hepatocellular Carcinoma,426,44.1
+Advanced Cancer,230,42.9
+Head and Neck Cancer,419,42.8
+Non Small Cell Lung Cancer,231,42.1
+Prostate Cancer,1262,42.0

@@ -1,0 +1,21 @@
+"condition_name","phase","source_class","finished_trials","terminated_trials","termination_rate_pct","avg_months_completed","avg_months_terminated"
+Alzheimer's Disease,PHASE3,INDUSTRY,43,23,53.5,40.0,32.9
+Myelodysplastic Syndromes,PHASE1,INDUSTRY,41,19,46.3,37.2,37.7
+Non Small Cell Lung Cancer,PHASE1,INDUSTRY,65,30,46.2,46.0,28.2
+Acute Myeloid Leukemia,PHASE1,INDUSTRY,102,44,43.1,36.3,31.3
+Pulmonary Arterial Hypertension,PHASE2,INDUSTRY,40,17,42.5,32.8,19.9
+Melanoma,PHASE2,INDUSTRY,50,21,42.0,47.9,26.8
+Non-small Cell Lung Cancer,PHASE1,INDUSTRY,79,33,41.8,42.8,31.4
+Renal Cell Carcinoma,PHASE1,INDUSTRY,56,23,41.1,47.8,30.2
+Melanoma,PHASE1,INDUSTRY,117,47,40.2,48.5,33.9
+Leukemia,PHASE2,OTHER,70,28,40.0,73.6,39.4
+Non-Small Cell Lung Cancer,PHASE1,INDUSTRY,50,20,40.0,36.3,35.3
+Acute Lymphoblastic Leukemia,PHASE2,OTHER,40,16,40.0,61.8,41.5
+"Carcinoma, Non-Small-Cell Lung",PHASE1,INDUSTRY,59,23,39.0,44.7,31.7
+Covid19,PHASE2,OTHER,67,26,38.8,12.0,13.2
+Covid19,PHASE2,INDUSTRY,49,19,38.8,12.9,13.4
+"Solid Tumor, Adult",PHASE1,INDUSTRY,58,22,37.9,37.3,25.8
+Colorectal Cancer,PHASE1,INDUSTRY,99,37,37.4,37.8,27.8
+Ovarian Cancer,PHASE1,INDUSTRY,98,36,36.7,37.2,35.5
+COVID-19,PHASE3,OTHER,86,31,36.0,15.9,13.8
+Lymphoma,PHASE2,OTHER,68,24,35.3,72.2,45.3

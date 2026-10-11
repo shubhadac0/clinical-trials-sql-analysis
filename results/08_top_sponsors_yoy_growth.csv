@@ -1,0 +1,61 @@
+sponsor,trial_year,num_trials,prev_year_trials,yoy_growth_pct
+Ain Shams University,2020,106,,
+Ain Shams University,2021,182,106,71.7
+Ain Shams University,2022,210,182,15.4
+Ain Shams University,2023,202,210,-3.8
+Ain Shams University,2024,293,202,45
+Ain Shams University,2025,200,293,-31.7
+Assistance Publique - Hôpitaux de Paris,2020,256,,
+Assistance Publique - Hôpitaux de Paris,2021,287,256,12.1
+Assistance Publique - Hôpitaux de Paris,2022,249,287,-13.2
+Assistance Publique - Hôpitaux de Paris,2023,244,249,-2
+Assistance Publique - Hôpitaux de Paris,2024,256,244,4.9
+Assistance Publique - Hôpitaux de Paris,2025,235,256,-8.2
+Assiut University,2020,417,,
+Assiut University,2021,399,417,-4.3
+Assiut University,2022,411,399,3
+Assiut University,2023,539,411,31.1
+Assiut University,2024,616,539,14.3
+Assiut University,2025,598,616,-2.9
+AstraZeneca,2020,120,,
+AstraZeneca,2021,145,120,20.8
+AstraZeneca,2022,132,145,-9
+AstraZeneca,2023,137,132,3.8
+AstraZeneca,2024,173,137,26.3
+AstraZeneca,2025,172,173,-0.6
+Cairo University,2020,369,,
+Cairo University,2021,368,369,-0.3
+Cairo University,2022,471,368,28
+Cairo University,2023,541,471,14.9
+Cairo University,2024,618,541,14.2
+Cairo University,2025,638,618,3.2
+Mayo Clinic,2020,177,,
+Mayo Clinic,2021,203,177,14.7
+Mayo Clinic,2022,181,203,-10.8
+Mayo Clinic,2023,184,181,1.7
+Mayo Clinic,2024,178,184,-3.3
+Mayo Clinic,2025,190,178,6.7
+M.D. Anderson Cancer Center,2020,142,,
+M.D. Anderson Cancer Center,2021,155,142,9.2
+M.D. Anderson Cancer Center,2022,109,155,-29.7
+M.D. Anderson Cancer Center,2023,110,109,0.9
+M.D. Anderson Cancer Center,2024,138,110,25.5
+M.D. Anderson Cancer Center,2025,120,138,-13
+National Taiwan University Hospital,2020,128,,
+National Taiwan University Hospital,2021,133,128,3.9
+National Taiwan University Hospital,2022,115,133,-13.5
+National Taiwan University Hospital,2023,163,115,41.7
+National Taiwan University Hospital,2024,142,163,-12.9
+National Taiwan University Hospital,2025,157,142,10.6
+Riphah International University,2020,145,,
+Riphah International University,2021,261,145,80
+Riphah International University,2022,285,261,9.2
+Riphah International University,2023,421,285,47.7
+Riphah International University,2024,405,421,-3.8
+Riphah International University,2025,349,405,-13.8
+Sohag University,2020,29,,
+Sohag University,2021,166,29,472.4
+Sohag University,2022,181,166,9
+Sohag University,2023,219,181,21
+Sohag University,2024,205,219,-6.4
+Sohag University,2025,177,205,-13.7

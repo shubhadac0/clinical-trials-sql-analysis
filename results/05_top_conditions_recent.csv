@@ -1,0 +1,21 @@
+condition,num_trials
+Healthy,2941
+Breast Cancer,2876
+Stroke,2458
+Obesity,2151
+Anxiety,1952
+COVID-19,1657
+Depression,1560
+Pain,1528
+Cancer,1500
+Heart Failure,1406
+Prostate Cancer,1321
+Hypertension,1286
+Colorectal Cancer,1210
+Parkinson Disease,1182
+Healthy Volunteers,1091
+Quality of Life,1090
+Coronary Artery Disease,1036
+Multiple Sclerosis,1027
+Covid19,960
+Cardiovascular Diseases,958
