@@ -41,7 +41,7 @@ Aggregation (`COUNT`, `AVG`, `SUM`), multi-table `JOIN`s, `GROUP BY` and `HAVING
 ### Project Structure
 
 ```
-SQL_AACT_PROJECT/
+clinical-trials-sql-analysis/
 ├── README.md        <- this file
 ├── queries.sql      <- all queries, numbered (Query 1 to Query 10, plus 5b and 7b)
 └── results/         <- CSV output of each query
